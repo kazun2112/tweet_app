@@ -1,4 +1,4 @@
-#Rails New 
+# Rails New 
 ====================================================================================
 [Documents]
  $ rails new tweet_app
@@ -205,7 +205,7 @@ Use `bundle info [gemname]` to see where a bundled gem is installed.
 * bin/rake: spring inserted
 * bin/rails: spring inserted
 
-#Git Init
+# Git Init
 ====================================================================================
 
 [Documents]
